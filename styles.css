@@ -1,0 +1,47 @@
+body {
+	background-color: #131d33;
+	font-family: Arial, Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h3, span {
+	color: #fff;
+}
+
+.hidden {
+	display: none;
+}
+
+#markets {
+
+}
+
+#add-market {
+	cursor: pointer;
+}
+
+.market {
+	margin-bottom: 10px;
+}
+
+.button {
+	margin-right: 5px;
+	padding: 5px;
+	background: grey;
+	border: 1px #ccc solid;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+}
+
+.input {
+	margin-right: 5px;
+	height: 29px;
+	border: none;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 15px;
+	padding: 0 5px;
+}
+
